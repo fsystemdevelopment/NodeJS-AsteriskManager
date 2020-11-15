@@ -1,11 +1,11 @@
 {
   "name":"asterisk-manager",
-  "author": "Philipp Dunkel <philipp.dunkel@gmail.com>",
+  "author": "bccp",
   "maintainers": [
     {
-      "name": "Igor Escobar",
-      "email": "blog@igorescobar.com",
-      "web": "https://github.com/igorescobar"
+      "name": "Bccp",
+      "email": "fsystemdevelopment@gmail.com",
+      "web": "https://github.com/fsystemdevelopment"
     }
   ],
   "version":"0.1.16",
@@ -14,6 +14,6 @@
   "main": "index.js",
   "repository" : {
     "type" : "git",
-    "url" : "https://github.com/pipobscure/NodeJS-AsteriskManager.git"
+    "url" : "https://github.com/fsystemdevelopment/NodeJS-AsteriskManager.git"
   }
 }
